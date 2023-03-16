@@ -71,7 +71,7 @@ interfaces first:
 
 - An interface is never instantiated and does not have constructors.
 - An interface may define one or more abstract methods.
-  - In our `Swimmiable` interface, we can see an abstract method called
+  - In our `Swimmable` interface, we can see an abstract method called
     `swim()`. This is an abstract method, as in it has no method body and is
     public by default.
 - An interface may define constants.
